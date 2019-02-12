@@ -1,0 +1,11 @@
+{
+  "name": "intro-app",
+  "version": "1.0.0",
+  "description": "Intro app on nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Kelmendi",
+  "license": "ISC"
+}
